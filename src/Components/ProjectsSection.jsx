@@ -54,19 +54,7 @@ const projects = [
   //     <SiCss3 className={styles.stackIcon} />,
   //   ],
   // },
-  {
-    name: "You Tube App",
-    img: "/youtube.png",
-    link: "https://you-tube-mini.netlify.app/",
-    git: "https://github.com/sanketpatil05/Youtube",
-    about:
-      "This project will let you design the pixel art. Let your creativity flow and convert them to images",
-    stacks: [
-      <SiJavascript className={styles.stackIcon} />,
-      <SiHtml5 className={styles.stackIcon} />,
-      <SiCss3 className={styles.stackIcon} />,
-    ],
-  },
+
   {
     name: "Westside.com clone",
     img: "/westside.png",
